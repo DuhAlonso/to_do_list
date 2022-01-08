@@ -1,16 +1,31 @@
-# to_do_list
+# ToDoList
 
-A new Flutter project.
+Este app foi criado com base no curso de flutter utilizando <strong>shared_preferences.</strong>
 
-## Getting Started
+## Sobre o App
 
-This project is a starting point for a Flutter application.
+:iphone: Lista de tarefas.  
+:iphone: Marcar como concluida.  
+:iphone: Excluir tarefa.  
+:iphone: Desfazer exclusão.
 
-A few resources to get you started if this is your first Flutter project:
+- [Instalação do flutter](https://flutter.dev/docs/get-started)
+- [O que é Widgets?](https://flutter.dev/docs/development/ui/widgets)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+:sunglasses:  Qualquer dúvida me chama
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+:v: [Github](https://github.com/DuhAlonso)
+
+:v: [Linkedin](https://www.linkedin.com/in/eduardo-alonso-685509b7/)
+
+:v: [Telegram](https://t.me/duhalonso)
+
+## Screenshots
+
+<img src="https://github.com/DuhAlonso/to_do_list/blob/main/screenshot/Screen1.png" width="250"> <img src="https://github.com/DuhAlonso/to_do_list/blob/main/screenshot/Screen2.png" width="250"> <img src="https://github.com/DuhAlonso/to_do_list/blob/main/screenshot/Screen3.png" width="250">
+<img src="https://github.com/DuhAlonso/to_do_list/blob/main/screenshot/Screen4.png" width="250"> <img src="https://github.com/DuhAlonso/to_do_list/blob/main/screenshot/Screen5.png" width="250">
+
+### *Estudar é fundamental para um bom futuro, estudar e praticar é a chave do SUCESSO!*
+
+### LICENSE
+[Ler](https://github.com/DuhAlonso/basic_app_request_api/blob/master/LICENSE.md)
